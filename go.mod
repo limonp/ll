@@ -1,3 +1,3 @@
-module github.com/limonp/test
+module github.com/limonp/ll
 
 go 1.13
